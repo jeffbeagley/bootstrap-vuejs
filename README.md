@@ -1,4 +1,4 @@
-# kattee_baking
+# Foundation for creating VueJS SPA apps with Bootstrap-Vue
 
 ## Project setup
 ```
